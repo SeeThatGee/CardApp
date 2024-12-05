@@ -1,0 +1,39 @@
+.album {
+  position: relative;
+  perspective: 1000px;
+  width: 200px; /* Increase the width */
+  height: 250px; /* Increase the height */
+  margin: 20px;
+}
+
+.album img {
+  width: 100%;
+  height: 100%;
+  display: block;
+  border: 2px solid #fff;
+  position: absolute;
+  border-radius: 4px;
+}
+
+.album .front {
+  transform: rotateY(90deg);
+  transition: all ease-in 0.2s;
+  backface-visibility: hidden;
+}
+
+.flipped .front {
+  transform: rotateY(0deg);
+  transition-delay: 0.2s;
+}
+
+.album .back {
+  transition: all ease-in 0.2s;
+  transition-delay: 0.2s;
+  backface-visibility: hidden;
+  transform: rotateY(0deg);
+}
+
+.flipped .back {
+  transform: rotateY(90deg);
+  transition-delay: 0s;
+}

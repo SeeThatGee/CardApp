@@ -1,0 +1,12 @@
+.card-grid {
+  display: grid;
+  justify-content: center; /* Center the grid within its container */
+}
+
+.card-grid.easy {
+  grid-template-columns: repeat(4, 1fr); /* 4 equal columns for easy mode */
+}
+
+.card-grid.hard {
+  grid-template-columns: repeat(6, 1fr); /* 6 equal columns for hard mode */
+}

@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap");
+
+body.card-game {
+  background-color: #1e1e1e;
+  margin: 0;
+  padding: 0;
+  font-family: "Orbitron", sans-serif;
+  color: #fff;
+}
+
+button {
+  background-color: #ffcc00;
+  color: #1e1e1e;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #9ea900;
+  color: #fff;
+}
+
+.card-grid {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 10px;
+  justify-content: center; /* Center the cards horizontally */
+}

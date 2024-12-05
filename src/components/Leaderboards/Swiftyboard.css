@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Delius+Unicase:wght@400;700&display=swap");
+
+.Swiftyboards {
+  display: flex;
+  margin-top: 10px;
+  justify-content: center;
+}
+
+.Swiftyboard {
+  border-radius: 10px;
+  padding: 20px;
+  width: 45%;
+  color: #333; /* Darker text color for contrast */
+  font-family: "Delius Unicase", cursive; /* Use the Delius Unicase font */
+}
+
+.Swiftyboard h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+  text-align: center;
+  color: #ff69b4; /* Hot pink color for headings */
+}
+
+.Swiftyboard ol {
+  list-style: none;
+  padding: 0;
+}
+
+.Swiftyboard li {
+  background-color: #ffb6c1; /* Light pink background for list items */
+  border-radius: 5px;
+  margin-bottom: 10px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  font-size: 1.2rem;
+}
+
+.Swiftyboard li:nth-child(odd) {
+  background-color: #ffc0cb; /* Slightly different pink for odd items */
+}
+
+.Swiftyboard li span {
+  font-weight: bold;
+  margin-right: 10px;
+  margin-left: 10px;
+  color: #ff69b4; /* Hot pink color for text */
+}
+
+.Swiftyboard li .name {
+  flex-grow: 1;
+  text-align: left;
+  font-size: 1.5rem;
+}

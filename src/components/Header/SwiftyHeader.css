@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Delius+Unicase:wght@400;700&display=swap");
+
+.swifty-header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  font-family: "Delius Unicase", cursive; /* Use the Delius Unicase font */
+}
+
+.swifty-header h1 {
+  font-size: 1.75rem; /* Increase the font size */
+  color: #ff69b4;
+}
+
+.swifty-header-button {
+  background-color: #ff69b4;
+  color: #fff;
+  border: none;
+  padding: 15px 25px; /* Increase padding */
+  border-radius: 5px;
+  font-size: 1.2rem; /* Increase font size */
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-left: 10px; /* Add spacing between buttons */
+}
+
+.swifty-header-button:hover {
+  background-color: #ffc0cb;
+  color: #333;
+}
+
+.swifty-header-stats {
+  display: flex;
+  flex-direction: column;
+}
+
+.swifty-header-stats span {
+  font-size: 1.5rem; /* Increase font size */
+  color: #ff69b4;
+  margin-left: 10px;
+  margin-right: 10px;
+}

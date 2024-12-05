@@ -1,0 +1,40 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header h1 {
+  font-size: 2rem; /* Increase the font size */
+  color: #ffcc00;
+}
+
+.header-button {
+  background-color: #ffcc00;
+  color: #1e1e1e;
+  border: none;
+  padding: 15px 25px; /* Increase padding */
+  border-radius: 5px;
+  font-size: 1.2rem; /* Increase font size */
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  margin-left: 10px; /* Add spacing between buttons */
+}
+
+.header-button:hover {
+  background-color: #9ea900;
+  color: #fff;
+}
+
+.header-stats {
+  display: flex;
+  flex-direction: column;
+}
+
+.header-stats span {
+  font-size: 1.5rem; /* Increase font size */
+  color: #ffcc00;
+  margin-left: 10px;
+  margin-right: 10px;
+}

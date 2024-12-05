@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Delius+Unicase:wght@400;700&display=swap");
+.swifty-game {
+  margin: 0;
+  padding: 0;
+  font-family: "Delius Unicase", cursive; /* Use the Delius Unicase font */
+  color: #fff;
+}
+
+body.swifty-game {
+  background-color: #1e1e1e;
+  margin: 0;
+  padding: 0;
+  font-family: "Delius Unicase", cursive;
+  color: #333;
+}
+
+.swifty-grid {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 10px;
+  justify-content: center; /* Center the cards horizontally */
+}

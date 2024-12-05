@@ -1,0 +1,223 @@
+{
+  "entries": [
+    {
+      "id": "1",
+      "name": "Sp33d",
+      "time": 15,
+      "guesses": 20,
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "name": "w00sh",
+      "time": 18,
+      "guesses": 22,
+      "difficulty": "hard"
+    },
+    {
+      "id": "3",
+      "name": "Racer",
+      "time": 14,
+      "guesses": 19,
+      "difficulty": "easy"
+    },
+    {
+      "id": "4",
+      "name": "Zippy",
+      "time": 17,
+      "guesses": 21,
+      "difficulty": "hard"
+    },
+    {
+      "id": "5",
+      "name": "420!",
+      "time": 16,
+      "guesses": 23,
+      "difficulty": "easy"
+    },
+    {
+      "id": "6",
+      "name": "Ikwik",
+      "time": 13,
+      "guesses": 18,
+      "difficulty": "hard"
+    },
+    {
+      "id": "7",
+      "name": "Zoom",
+      "time": 19,
+      "guesses": 24,
+      "difficulty": "easy"
+    },
+    {
+      "id": "8",
+      "name": "FastR",
+      "time": 20,
+      "guesses": 25,
+      "difficulty": "hard"
+    },
+    {
+      "id": "9",
+      "name": "GEEZo",
+      "time": 12,
+      "guesses": 17,
+      "difficulty": "easy"
+    },
+    {
+      "id": "10",
+      "name": "Sonic",
+      "time": 21,
+      "guesses": 16,
+      "difficulty": "hard"
+    },
+    {
+      "id": "11",
+      "name": "Sonic",
+      "time": 11,
+      "guesses": 15,
+      "difficulty": "easy"
+    },
+    {
+      "id": "7a75",
+      "name": "Zoom",
+      "guesses": 20,
+      "time": 14,
+      "difficulty": "hard"
+    },
+    {
+      "id": "8c78",
+      "name": "wooho",
+      "guesses": 12,
+      "time": 22,
+      "difficulty": "easy"
+    },
+    {
+      "id": "7967",
+      "name": "Gee",
+      "guesses": 17,
+      "time": 45,
+      "difficulty": "hard"
+    },
+    {
+      "id": "2dcc",
+      "name": "nEEO",
+      "guesses": 27,
+      "time": 91,
+      "difficulty": "easy"
+    },
+    {
+      "id": "e39d",
+      "name": "ooooh",
+      "guesses": 23,
+      "time": 44,
+      "difficulty": "hard"
+    },
+    {
+      "id": "f6a5",
+      "name": "OOPA",
+      "guesses": 15,
+      "time": 98,
+      "difficulty": "easy"
+    },
+    {
+      "id": "5872",
+      "name": "gemma",
+      "guesses": 0,
+      "time": 3,
+      "difficulty": "hard"
+    },
+    {
+      "id": "643c",
+      "name": "Gemma",
+      "guesses": 22,
+      "time": 68,
+      "difficulty": "easy"
+    }
+  ],
+  "swifties": [
+    {
+      "id": "1",
+      "name": "Swift",
+      "time": 22,
+      "guesses": 14,
+      "difficulty": "easy"
+    },
+    {
+      "id": "2",
+      "name": "Taylr",
+      "time": 44,
+      "guesses": 22,
+      "difficulty": "hard"
+    },
+    {
+      "id": "3",
+      "name": "Lover",
+      "time": 60,
+      "guesses": 21,
+      "difficulty": "easy"
+    },
+    {
+      "id": "4",
+      "name": "Reput",
+      "time": 71,
+      "guesses": 26,
+      "difficulty": "hard"
+    },
+    {
+      "id": "5",
+      "name": "Folkl",
+      "time": 44,
+      "guesses": 12,
+      "difficulty": "easy"
+    },
+    {
+      "id": "6",
+      "name": "Red13",
+      "time": 50,
+      "guesses": 29,
+      "difficulty": "hard"
+    },
+    {
+      "id": "7",
+      "name": "Shake",
+      "time": 40,
+      "guesses": 18,
+      "difficulty": "easy"
+    },
+    {
+      "id": "8",
+      "name": "Blank",
+      "time": 333,
+      "guesses": 72,
+      "difficulty": "hard"
+    },
+    {
+      "id": "9",
+      "name": "Style",
+      "time": 243,
+      "guesses": 14,
+      "difficulty": "easy"
+    },
+    {
+      "id": "10",
+      "name": "Swift",
+      "time": 13,
+      "guesses": 15,
+      "difficulty": "hard"
+    },
+    {
+      "id": "317d",
+      "name": "GEMMA",
+      "guesses": 0,
+      "time": 2,
+      "difficulty": "hard"
+    },
+    {
+      "id": "9652",
+      "name": "hahha",
+      "guesses": 3,
+      "time": 14,
+      "difficulty": "easy"
+    }
+  ]
+}
